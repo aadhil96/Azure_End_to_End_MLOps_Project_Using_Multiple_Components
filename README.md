@@ -79,6 +79,17 @@ python score.py --data input_data.json
 
 Once trained, models can be deployed using AzureML endpoints. Details on deploying models can be found in the pipeline notebook, where deployment steps are automated.
 
-# Screenshot
+# Screenshots
+## Azure ML Datastore
+![storage](https://github.com/aadhil96/Azure_End_to_End_MLOps_Project_Using_Multiple_Components/blob/541f7cf97733f948aed3c05a479f91856fc3b0c0/store.JPG)
+
+## Azure ML Pipeline Jobs
+![storage](https://github.com/aadhil96/Azure_End_to_End_MLOps_Project_Using_Multiple_Components/blob/541f7cf97733f948aed3c05a479f91856fc3b0c0/Jobs%20Pipeline.JPG)
+
+## Azure ML Pipeline Metrics
+![storage](https://github.com/aadhil96/Azure_End_to_End_MLOps_Project_Using_Multiple_Components/blob/541f7cf97733f948aed3c05a479f91856fc3b0c0/logs.JPG)
+
+## Azure ML Pipeline Endpoint
+![storage](https://github.com/aadhil96/Azure_End_to_End_MLOps_Project_Using_Multiple_Components/blob/541f7cf97733f948aed3c05a479f91856fc3b0c0/endpoint.JPG)
 
 
