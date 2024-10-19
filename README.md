@@ -78,3 +78,7 @@ python score.py --data input_data.json
 ## Model Deployment
 
 Once trained, models can be deployed using AzureML endpoints. Details on deploying models can be found in the pipeline notebook, where deployment steps are automated.
+
+# Screenshot
+
+
